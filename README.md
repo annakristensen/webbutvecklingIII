@@ -9,9 +9,7 @@
 4. Skapa personlig README-fil för profilen
 5. Att skapa en enklare webbplats med valfritt innehåll med HTML och CSS och publicera som en webbplats med hjälp av Github Pages
 
-### Kommando som behöver användas för att klona ditt repository till min dator
 
-xxxxxxxxxxx
 
 
 
